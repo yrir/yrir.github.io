@@ -1,4 +1,4 @@
-# [tw93.fun](yrir.github.io)
+# [yrir.github.io](yrir.github.io)
 
 - This is Tw93's front-end technology blog.
 - Commonly used to record learning and research front-end technology.
